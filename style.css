@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+* {
+    border: solid rgba(0, 128, 0, 0.082) 1px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif; 
+}
+
+.intro-container {
+    width: 600px;
+    height: 400px;
+    font-size: 1.25em;
+    color: #1E1E1E;
+}
+
+mark {
+    color: #7098FF;
+    background-color: #ffffff00;
+}
+
+a svg {
+    height: auto;
+    width: 30px;
+    color: #7098FF;
+}
